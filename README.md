@@ -7,7 +7,7 @@ They have to try many times or just leave your store.
 With our module, they can know exactly the available quantity of the product and it can be added to cart automatically instead of showing the error message
 
 
-Installation step:
+Installation steps:
 
 ```
 composer require metagento/availableqty-magento2:*
